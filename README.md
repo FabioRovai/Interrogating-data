@@ -1,3 +1,3 @@
 # Interrogating-museum-data
 
-Graded Assignment
+MSC graded assignment
